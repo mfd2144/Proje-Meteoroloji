@@ -1,7 +1,7 @@
 # Proje-Meteoroloji
-#örnek icao kodları
-#LTFM - İstanbul Havalimanı
-#LTAT - Erhaç Havalimanı
-#LTAC - Ankara Esenboğa Havalimanı
-#LTBA - İstanbul Atatürk Havalımanı
-#LTAB- Güvercinlik Hava Limanı
+<br>Örnek icao kodları</br>
+<br>LTFM - İstanbul Havalimanı</br>
+<br>LTAT - Erhaç Havalimanı</br>
+<br>LTAC - Ankara Esenboğa Havalimanı</br>
+<br>LTBA - İstanbul Atatürk Havalımanı</br>
+<br>LTAB- Güvercinlik Hava Limanı</br>
